@@ -1,1 +1,1 @@
-# Hi
+# Welcome to photo editor
